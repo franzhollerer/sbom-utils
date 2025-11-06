@@ -54,13 +54,46 @@ def get_treated_cves(files):
             cve['status'] = issue['status']
             if 'description' in issue:
                 cve['description'] = issue['description']
+            else:
+                cve['description'] = None
+
             cves[issue['id']] = cve
     return cves
 
 
 def annotate_vex(treated, vex):
     for vul in vex['vulnerabilities']:
-        print(vul['id'])
+        id = vul['id']
+        try:
+            assert len(vul['affects']) == 1
+        except AssertionError:
+            print(f'{id} affects more than one component', file=sys.stderr)
+            raise
+        if not id in treated:
+            continue
+        status = treated[id]['status']
+        description = treated[id]['description']
+        match status:
+            case 'Patched':
+                vul['affects'][0]['versions'][0]['status'] = 'affected'
+                vul['analysis']['state'] = 'resolved'
+                del vul['analysis']['justification']
+                vul['analysis']['response'] = ['workaround_available']
+                vul['analysis']['detail'] = ['Patched through Yocto']
+            case 'Ignored':
+                vul['affects'][0]['versions'][0]['status'] = 'affected'
+                vul['analysis']['state'] = 'not_affected'
+                vul['analysis']['justification'] = 'requires_dependency'
+                del vul['analysis']['response']
+                s = 'Ignored through Yocto'
+                if description:
+                    s += ': ' + description
+                vul['analysis']['detail'] = s
+            case _:
+                raise ValueError('unknown status', id, status, description)
+        
+
+
 
 
 def main():
@@ -71,9 +104,6 @@ def main():
 
     treated = get_treated_cves(args.cve)
     annotate_vex(treated, vex)
-
-    print('-----------------------> remove sys.exit(0)')
-    sys.exit(0)
 
     if args.vex_out:
         out = open(args.vex_out, 'w')
