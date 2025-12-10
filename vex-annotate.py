@@ -83,7 +83,7 @@ def annotate_vex(treated, vex):
             case 'Ignored':
                 vul['affects'][0]['versions'][0]['status'] = 'affected'
                 vul['analysis']['state'] = 'not_affected'
-                vul['analysis']['justification'] = ['requires_dependency']
+                vul['analysis']['justification'] = 'requires_dependency'
                 del vul['analysis']['response']
                 s = 'Ignored through Yocto'
                 if description:
