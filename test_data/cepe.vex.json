@@ -895,7 +895,6 @@
       "analysis": {
         "state": "false_positive",
         "detail": "OpenVPN Connect is a different product than openvpn"
-
       },
       "properties": [
         {
@@ -3804,19 +3803,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -3837,19 +3830,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -3870,19 +3857,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -3910,19 +3891,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -3950,19 +3925,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -3990,19 +3959,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4030,19 +3993,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4070,19 +4027,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4110,19 +4061,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4150,17 +4095,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "affected"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "resolved",
-        "response": [
-          "workaround_available"
-        ],
-        "detail": "Patched through Yocto"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4188,19 +4129,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4228,19 +4163,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4268,19 +4197,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4308,19 +4231,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4348,19 +4265,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4388,19 +4299,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4428,17 +4333,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "affected"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "resolved",
-        "response": [
-          "workaround_available"
-        ],
-        "detail": "Fixed by Phoenix Contact"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4466,19 +4367,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4506,19 +4401,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4546,19 +4435,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4586,19 +4469,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4626,19 +4503,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4666,19 +4537,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4706,19 +4571,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4746,19 +4605,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4786,19 +4639,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4826,19 +4673,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4866,19 +4707,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4906,19 +4741,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4946,19 +4775,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -4986,19 +4809,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5026,19 +4843,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5066,19 +4877,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5106,19 +4911,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5146,19 +4945,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5186,19 +4979,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5226,19 +5013,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5259,19 +5040,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5292,19 +5067,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5325,19 +5094,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5358,19 +5121,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5398,19 +5155,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5438,19 +5189,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5478,19 +5223,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5518,19 +5257,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5558,19 +5291,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5598,19 +5325,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5638,19 +5359,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5678,19 +5393,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5718,19 +5427,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5758,19 +5461,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5798,19 +5495,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5838,19 +5529,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5878,19 +5563,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5918,19 +5597,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5958,19 +5631,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -5998,19 +5665,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6038,19 +5699,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6078,19 +5733,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6118,19 +5767,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6158,19 +5801,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6198,19 +5835,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6238,19 +5869,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6278,19 +5903,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6318,19 +5937,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6358,19 +5971,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6398,19 +6005,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6438,19 +6039,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6478,19 +6073,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6518,19 +6107,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6558,19 +6141,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6598,19 +6175,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6638,19 +6209,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6678,19 +6243,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6718,19 +6277,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6758,19 +6311,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6798,19 +6345,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6838,19 +6379,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6878,19 +6413,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6918,19 +6447,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6958,17 +6481,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "affected"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "resolved",
-        "response": [
-          "workaround_available"
-        ],
-        "detail": "Patched through Yocto"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -6996,19 +6515,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7036,19 +6549,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7076,19 +6583,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7116,19 +6617,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7156,19 +6651,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7196,17 +6685,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "affected"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "resolved",
-        "response": [
-          "workaround_available"
-        ],
-        "detail": "Patched through Yocto"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7234,19 +6719,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7274,19 +6753,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7314,19 +6787,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7354,19 +6821,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7394,19 +6855,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7434,19 +6889,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7474,19 +6923,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7514,19 +6957,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7554,19 +6991,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7594,19 +7025,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7634,19 +7059,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7674,19 +7093,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7714,19 +7127,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7754,19 +7161,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7794,19 +7195,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7834,19 +7229,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7874,19 +7263,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7914,19 +7297,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7954,19 +7331,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -7994,19 +7365,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8034,19 +7399,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8074,19 +7433,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8114,19 +7467,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8154,19 +7501,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8194,19 +7535,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8234,19 +7569,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8274,19 +7603,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8314,19 +7637,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8354,19 +7671,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8394,19 +7705,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8434,19 +7739,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8474,19 +7773,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8514,19 +7807,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8554,19 +7841,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8594,19 +7875,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8634,19 +7909,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8674,19 +7943,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8714,19 +7977,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8754,19 +8011,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8794,19 +8045,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8834,19 +8079,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8874,19 +8113,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8914,19 +8147,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8954,19 +8181,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -8994,19 +8215,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9034,19 +8249,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9074,19 +8283,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9114,19 +8317,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9154,19 +8351,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9194,19 +8385,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9234,19 +8419,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9274,19 +8453,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9314,19 +8487,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9354,19 +8521,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9394,19 +8555,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9434,19 +8589,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9474,19 +8623,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9514,19 +8657,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
@@ -9554,19 +8691,13 @@
           "versions": [
             {
               "version": "25.9.2.3-alpha",
-              "status": "Please add the status for your product here. It can either be 'affected', 'unaffected' or 'unknown'"
+              "status": "unaffected"
             }
           ]
         }
       ],
       "analysis": {
-        "state": "add state here",
-        "justification": "add justification here",
-        "response": [
-          "add response here",
-          "more than one response is possible"
-        ],
-        "detail": "the fields state, justification and response are enums, please see CycloneDX specification"
+        "state": "false_positive"
       },
       "properties": [
         {
